@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Julien Denize's personal webiste."
+title: "Welcome - Julien Denize's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
