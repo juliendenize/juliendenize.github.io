@@ -1,11 +1,11 @@
 ---
-title: "Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning"
+title: "Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning"
 collection: publications
 permalink: /publication/sce_extended
 excerpt: '[Paper link](https://arxiv.org/abs/2212.11187)'
 date: 2022-12-21
 venue: 'arXiv'
-citation: '"Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; arXiv:abs/2212.11187, 2022'
+citation: '"Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; arXiv:abs/2212.11187, 2022'
 ---
 
 ## Abstract
