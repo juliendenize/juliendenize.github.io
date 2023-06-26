@@ -14,11 +14,11 @@ The course included:
 - SLURM Tutorial:
     - Principles of nodes, jobs, submissions, queue
     - How to submit a job
-        - configuration to maximize usage of parition resources
+        - configuration to maximize usage of partition resources
         - multi-node and multi-process setting
 - Pytorch Tutorial:
     - Dataloader
-    - Distributed training: Distributed Data Parallel
+    - Distributed training
         - along with SLURM by using set environment variables 
     - Avoid CPU/GPU synchronization
 
