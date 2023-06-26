@@ -14,4 +14,4 @@ I got my MSc in Computer Science from [Télécom SudParis](https://www.telecom-s
 
 For several years now, my education and works are drawn to Maths and Computer Science, therefore Artificial Intelligence is and will be one of my passion especially today with the field having fast (**really fast**) advances.
 
-I would be more than happy to here from you, do not hesitate to contact me !
+I would be more than happy to hear from you, do not hesitate to contact me !
