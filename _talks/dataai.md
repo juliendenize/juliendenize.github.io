@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/dataai
 venue: "Workshop Franco-Allemand ”Computer Vision” "
-date: 2012-03-01
+date: 2022-06-14
 location: "Inria Domaine de Voluceau - Rocquencourt"
 ---
 
