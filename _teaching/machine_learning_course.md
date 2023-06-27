@@ -4,8 +4,7 @@ collection: teaching
 type: "Course Lecturer"
 permalink: /teaching/machine_learning_course
 venue: "CentraleSupélec, Université Paris-Saclay"
-start-date: 2022-09-01
-end-date: 2022-11-30
+date: 2022-09-01
 location: "Gif-sur-Yvette, France"
 ---
 
