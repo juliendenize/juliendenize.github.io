@@ -2,7 +2,7 @@
 title: "Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning"
 collection: publications
 permalink: /publication/sce_extended
-excerpt: '[Paper link](https://link.springer.com/article/10.1007/s00138-023-01444-9)'
+excerpt: '[Paper link](https://link.springer.com/article/10.1007/s00138-023-01444-9) - [Code Link](https://github.com/juliendenize/eztorch)'
 date: 2023-09-26
 venue: 'MVAP'
 citation: '"Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; Machine Vision and Applications, 2023'
