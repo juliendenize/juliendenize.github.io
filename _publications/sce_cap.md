@@ -16,7 +16,7 @@ L'apprentissage par représentation contrastif est une méthode d'apprentissage 
 If you found our work useful, please consider citing us:
 
 >```BibTex
->@article{Denize_2022_CAp,
+>@article{Denize_2022_sce_CAp,
 >  author       = {Denize, Julien and Rabarisoa, Jaonary and Orcesi, Astrid and H\'erault, Romain and Canu, St\'ephane},
 >  title        = {Estimation Contrastive de la Similarité pour un Apprentissage Flou Auto-Supervisé},
 >  journal      = {Conférence sur l’Apprentissage Automatique (CAp)},

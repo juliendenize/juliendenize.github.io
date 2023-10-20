@@ -13,14 +13,14 @@ Contrastive representation learning has proven to be an effective self-supervise
 
 ## Resources
 
-[Paper Link](https://arxiv.org/abs/2111.14585) - [Code link](https://github.com/CEA-LIST/SCE)
+[Paper Link](https://arxiv.org/abs/2111.14585) - [Code Link](https://github.com/juliendenize/eztorch)
 
 
 ## Citation
 If you found our work useful, please consider citing us:
 
 >```BibTex
->@InProceedings{Denize_2023_WACV,
+>@InProceedings{Denize_2023_sce_WACV,
 >    author    = {Denize, Julien and Rabarisoa, Jaonary and Orcesi, Astrid and H\'erault, Romain and Canu, St\'ephane},
 >    title     = {Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning},
 >    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
