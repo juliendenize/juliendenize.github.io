@@ -2,7 +2,7 @@
 title: "Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning"
 collection: publications
 permalink: /publication/sce
-excerpt: '[Paper link](https://openaccess.thecvf.com/content/WACV2023/papers/Denize_Similarity_Contrastive_Estimation_for_Self-Supervised_Soft_Contrastive_Learning_WACV_2023_paper.pdf)'
+excerpt: '[Paper link](https://openaccess.thecvf.com/content/WACV2023/papers/Denize_Similarity_Contrastive_Estimation_for_Self-Supervised_Soft_Contrastive_Learning_WACV_2023_paper.pdf) - [Code Link](https://github.com/juliendenize/eztorch)'
 date: 2023-01-03
 venue: 'WACV'
 citation: '"Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault, Stéphane Canu; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023, pp. 2706-2716'

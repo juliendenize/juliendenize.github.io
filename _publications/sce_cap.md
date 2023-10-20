@@ -2,7 +2,7 @@
 title: "Estimation Contrastive de la Similarité pour un Apprentissage Flou Auto-Supervisé"
 collection: publications
 permalink: /publication/sce_cap
-excerpt: '[Conference link](https://caprfiap2022.sciencesconf.org/resource/page/id/30)'
+excerpt: '[Conference link](https://caprfiap2022.sciencesconf.org/resource/page/id/30) - [Code Link](https://github.com/juliendenize/eztorch)'
 date: 2022-04-13
 venue: 'CAp'
 citation: '"Estimation Contrastive de la Similarité pour un Apprentissage Flou Auto-Supervisé" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault, Stéphane Canu; Conférence sur l’Apprentissage Automatique (CAp), 2022'

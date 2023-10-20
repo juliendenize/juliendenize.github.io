@@ -2,7 +2,7 @@
 title: "COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers"
 collection: publications
 permalink: /publication/comedian
-excerpt: '[Paper link](https://arxiv.org/abs/2309.01270)'
+excerpt: '[Paper link](https://arxiv.org/abs/2309.01270) - [Code Link](https://github.com/juliendenize/eztorch)'
 date: 2023-09-23
 venue: 'arXiv'
 citation: '"COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers" Julien Denize, Mykola Liashuha, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; arXiv:abs/2309.01270, 2023'
