@@ -2,10 +2,10 @@
 title: "Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning"
 collection: publications
 permalink: /publication/sce_extended
-excerpt: '[Paper link](https://arxiv.org/abs/2212.11187)'
-date: 2022-12-21
-venue: 'arXiv'
-citation: '"Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; arXiv:abs/2212.11187, 2022'
+excerpt: '[Paper link](https://link.springer.com/article/10.1007/s00138-023-01444-9)'
+date: 2023-09-26
+venue: 'MVAP'
+citation: '"Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning" Julien Denize, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; Machine Vision and Applications, 2023'
 ---
 
 ## Abstract
@@ -13,18 +13,20 @@ Contrastive representation learning has proven to be an effective self-supervise
 
 ## Resources
 
-[Paper Link](https://arxiv.org/abs/2212.11187)
+[Paper Link](https://link.springer.com/article/10.1007/s00138-023-01444-9) - [Code Link](https://github.com/juliendenize/eztorch)
 
 
 ## Citation
 If you found our work useful, please consider citing us:
 
 >```BibTex
->@article{Denize_2023_sce-arXiv,
->  author       = {Julien Denize and Jaonary Rabarisoa and Astrid Orcesi and Romain H{\'{e}}rault},
->  title        = {Similarity Contrastive Estimation for Image and Video Soft Contrastive Self-Supervised Learning},
->  journal      = {arXiv},
->  volume       = {abs/2212.11187},
->  year         = {2022},
+>@article{Denize_2023_sce_MVAP,
+>   author={Denize, Julien and Rabarisoa, Jaonary and Orcesi, Astrid and H{\'e}rault, Romain},
+>   title={Similarity contrastive estimation for image and video soft contrastive self-supervised learning},
+>   journal={Machine Vision and Applications},
+>   year={2023},
+>   volume={34},
+>   number={6},
+>   doi={10.1007/s00138-023-01444-9},
 >}
 >```
