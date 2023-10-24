@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julien Denize"
 title_separator          : "-"
 name                     : &name "Julien Denize"
-description              : &description "PhD student at CEA-List and INSA Rouen."
+description              : &description "PhD Candidate at CEA-List and INSA Rouen."
 url                      : https://juliendenize.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juliendenize/juliendenize.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "julien-denize"
-  orcid            : 
+  orcid            : 0000-0002-2807-1826
   pinterest        :
   soundcloud       :
   stackoverflow    : 10713992
