@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julien Denize"
   avatar           : "profilejd.jpg"
-  bio              : "PhD Student at CEA List"
+  bio              : "Machine Learning at CEA List"
   location         : "Palaiseau, France"
   employer         :
   pubmed           : 
@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
   talks:
