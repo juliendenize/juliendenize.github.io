@@ -2,10 +2,10 @@
 title: "COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers"
 collection: publications
 permalink: /publication/comedian
-excerpt: '[Paper link](https://arxiv.org/abs/2309.01270) - [Code Link](https://github.com/juliendenize/eztorch)'
-date: 2023-09-23
+excerpt: '[Paper link](https://openaccess.thecvf.com/content/WACV2024W/Pretrain/papers/Denize_COMEDIAN_Self-Supervised_Learning_and_Knowledge_Distillation_for_Action_Spotting_Using_WACVW_2024_paper.pdf) - [Code Link](https://github.com/juliendenize/eztorch)'
+date: 2024-01-02
 venue: 'arXiv'
-citation: '"COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers" Julien Denize, Mykola Liashuha, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; arXiv:abs/2309.01270, 2023'
+citation: '"COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers" Julien Denize, Mykola Liashuha, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024'
 ---
 
 ## Abstract
@@ -13,19 +13,19 @@ We present COMEDIAN, a novel pipeline to initialize spatio-temporal transformers
 
 ## Resources
 
-[Paper Link](https://arxiv.org/abs/2309.01270) - [Code Link](https://github.com/juliendenize/eztorch)
+[Paper Link](https://openaccess.thecvf.com/content/WACV2024W/Pretrain/papers/Denize_COMEDIAN_Self-Supervised_Learning_and_Knowledge_Distillation_for_Action_Spotting_Using_WACVW_2024_paper.pdf) - [Code Link](https://github.com/juliendenize/eztorch)
 
 
 ## Citation
 If you found our work useful, please consider citing us:
 
 >```BibTex
->@article{denize_2023_COMEDIAN,
+>@InProceedings{Denize_2024_WACVW,
 >    author    = {Denize, Julien and Liashuha, Mykola and Rabarisoa, Jaonary and Orcesi, Astrid and H\'erault, Romain},
->    title     = {COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers},
->    journal   = {arXiv},
->    volume    = {abs/2309.01270},
->    year      = {2023},
->    url       = {https://arxiv.org/abs/2309.01270},
+>    title     = {COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting Using Transformers},
+>    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+>    month     = {January},
+>    year      = {2024},
+>    pages     = {530-540}
 >}
 >```
