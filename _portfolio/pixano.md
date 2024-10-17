@@ -3,7 +3,7 @@ title: "Pixano"
 collection: portfolio
 permalink: /portfolio/pixano
 date: 2024-03-01
-excerpt: 'Python; FastAPI; TypedScript; Svelte; Docker; Github Actions; CI/CD<br/>[Github](https://github.com/juliendenize/pixano)'
+excerpt: '*Python; FastAPI; TypedScript; Svelte; Docker; Github Actions; CI/CD*<br/>[Github](https://github.com/juliendenize/pixano)'
 ---
 
 ## About
