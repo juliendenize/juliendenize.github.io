@@ -3,6 +3,7 @@ title: "On Shelf Availability"
 collection: portfolio
 permalink: /portfolio/osa
 date: 2020-01-01
+excerpt: 'Numpy; Pandas; Matplotlib; Scikit-Learn; TensorFlow'
 ---
 
 ## About
