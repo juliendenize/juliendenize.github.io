@@ -3,7 +3,7 @@ title: "Torchaug"
 collection: portfolio
 permalink: /portfolio/torchaug
 date: 2023-06-01
-excerpt: '*PyTorch; Github Actions; CI/CD*<br/>[Github](https://github.com/juliendenize/torchaug)'
+excerpt: '*PyTorch, Github Actions, CI/CD*<br/>[Github](https://github.com/juliendenize/torchaug)'
 ---
 
 ## About
@@ -23,4 +23,4 @@ To be sure to retrieve the same data augmentations as Torchvision, the component
 
 ## Stack
 
-PyTorch; Github Actions; CI/CD
+PyTorch, Github Actions, CI/CD

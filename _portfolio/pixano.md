@@ -3,7 +3,7 @@ title: "Pixano"
 collection: portfolio
 permalink: /portfolio/pixano
 date: 2024-03-01
-excerpt: '*Python; FastAPI; TypedScript; Svelte; Docker; Github Actions; CI/CD*<br/>[Github](https://github.com/juliendenize/pixano)'
+excerpt: '*Python, FastAPI, TypedScript, Svelte, Docker, Github Actions, CI/CD*<br/>[Github](https://github.com/juliendenize/pixano)'
 ---
 
 ## About
@@ -25,5 +25,5 @@ Pixano is an open-source tool by CEA List for exploring and annotating your data
 
 ## Stack
 
-Python; FastAPI; TypedScript; Svelte; Docker; Github Actions; CI/CD
+Python, FastAPI, TypedScript, Svelte, Docker, Github Actions, CI/CD
 

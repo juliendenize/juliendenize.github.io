@@ -2,7 +2,7 @@
 title: "Eztorch"
 collection: portfolio
 permalink: /portfolio/eztorch
-excerpt: '*PyTorch; Github Actions*<br/>[Github](https://github.com/juliendenize/eztorch)'
+excerpt: '*PyTorch, Github Actions*<br/>[Github](https://github.com/juliendenize/eztorch)'
 date: 2021-12-01
 ---
 
@@ -24,4 +24,4 @@ To ease the use of the code, [documentation](https://juliendenize.github.io/ezto
 
 ## Stack
 
-PyTorch; Github Actions
+PyTorch, Github Actions
