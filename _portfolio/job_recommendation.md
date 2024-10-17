@@ -3,7 +3,7 @@ title: "Job Recommendation Platform"
 collection: portfolio
 permalink: /portfolio/job_reco
 date: 2019-11-01
-excerpt: 'TensorFlow; Scikit-Learn<br/>[Github](https://github.com/juliendenize/Linkedin-IA316-2020)'
+excerpt: '*TensorFlow; Scikit-Learn*<br/>[Github](https://github.com/juliendenize/Linkedin-IA316-2020)'
 ---
 
 ## About

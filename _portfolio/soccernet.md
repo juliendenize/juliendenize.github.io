@@ -2,8 +2,8 @@
 title: "SoccerNet Action spotting"
 collection: portfolio
 permalink: /portfolio/soccernet
-date: 2021-12-01
-excerpt: 'PyTorch<br/>[Github](https://github.com/juliendenize/eztorch)'
+date: 2023-05-31
+excerpt: '*PyTorch*<br/>[Github](https://github.com/juliendenize/eztorch)'
 ---
 
 ## About
