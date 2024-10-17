@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julien Denize"
 title_separator          : "-"
 name                     : &name "Julien Denize"
-description              : &description "PhD Candidate at CEA-List and INSA Rouen."
+description              : &description "Software Engineer | AI & Backend Development | MLOps Enthusiast | PhD in Deep Learning | Aspiring Full-Stack Developer"
 url                      : https://juliendenize.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juliendenize/juliendenize.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julien Denize"
   avatar           : "profilejd.jpg"
-  bio              : "Machine Learning at CEA List"
+  bio              : "Software Engineer | AI & Backend Development | MLOps Enthusiast | PhD in Deep Learning | Aspiring Full-Stack Developer"
   location         : "Palaiseau, France"
   employer         :
   pubmed           : 
