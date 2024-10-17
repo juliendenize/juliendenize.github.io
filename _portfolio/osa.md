@@ -2,7 +2,6 @@
 title: "On Shelf Availability"
 collection: portfolio
 permalink: /portfolio/osa
-excerpt: 'Numpy; Pandas; Matplotlib; Scikit-Learn; TensorFlow'
 date: 2020-01-01
 ---
 
@@ -16,3 +15,8 @@ Sadly, the data was too sparsed and poorly collected from the hyper-markers to r
 ## Code Link
 
 Due to the nature of the project, I have no right to share the code.
+
+## Stack
+
+Numpy; Pandas; Matplotlib; Scikit-Learn; TensorFlow
+
