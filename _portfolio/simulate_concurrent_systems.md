@@ -2,9 +2,8 @@
 title: "Simulate Concurrent Systems"
 collection: portfolio
 permalink: /portfolio/simulate_concurrent_systems
-excerpt: 'Java'
 date: 2019-01-01
-citation: '[Github](https://github.com/juliendenize/Simulate_concurrent_systems)'
+excerpt: '[Github](https://github.com/juliendenize/Simulate_concurrent_systems)'
 ---
 
 ## About
@@ -30,3 +29,7 @@ It is therefore useful to be able to model programs and processes to check that 
 ## Code Link
 
 [Github](https://github.com/juliendenize/Simulate_concurrent_systems)
+
+## Stack
+
+Java

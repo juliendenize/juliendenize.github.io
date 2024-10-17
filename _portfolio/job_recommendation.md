@@ -2,9 +2,8 @@
 title: "Job Recommendation Platform"
 collection: portfolio
 permalink: /portfolio/job_reco
-excerpt: 'TensorFlow; Scikit-Learn'
 date: 2019-11-01
-citation: '[Github](https://github.com/juliendenize/Linkedin-IA316-2020)'
+excerpt: '[Github](https://github.com/juliendenize/Linkedin-IA316-2020)'
 ---
 
 ## About
@@ -15,3 +14,7 @@ The results showed that Deep Learning and Linear Regression agents don't perform
 ## Code Link
 
 [Github](https://github.com/juliendenize/Linkedin-IA316-2020)
+
+## Stack
+
+TensorFlow; Scikit-Learn

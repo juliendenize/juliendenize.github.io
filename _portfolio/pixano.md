@@ -2,13 +2,15 @@
 title: "Pixano"
 collection: portfolio
 permalink: /portfolio/pixano
-excerpt: 'Python; FastAPI; TypedScript; Svelte; Docker; Github Actions; CI/CD'
 date: 2024-03-01
-citation: '[Github](https://github.com/juliendenize/pixano)'
+excerpt: '[Github](https://github.com/juliendenize/pixano)'
 ---
 
 ## About
-As part of my Machine Learning Engineer job at CEA, I am the **technical lead of Pixano** which is a data-centric AI building blocks for computer vision applications.
+
+Pixano is an open-source tool by CEA List for exploring and annotating your dataset using AI features.
+
+Led a team of 3 people to develop an open-source AI-powered annotation and data management tool web platform for multi-modal data. It enables users to visualize their data, annotate by hand or by using AI models and manipulate their data via a REST API or a Python API.Pixano is an open-source tool by CEA List for exploring and annotating your dataset using AI features. Led a team of 3 people to develop an open-source AI-powered annotation and data management tool web platform for multi-modal data. It enables users to visualize their data, annotate by hand or by using AI models and manipulate their data via a REST API or a Python API.
 
 Pixano is an open-source tool by CEA List for exploring and annotating your dataset using AI features such as:
 - Fast dataset navigation using the the modern storage format Lance
@@ -20,3 +22,8 @@ Pixano is an open-source tool by CEA List for exploring and annotating your data
 ## Code Link
 
 [Github](https://github.com/juliendenize/pixano)
+
+## Stack
+
+Python; FastAPI; TypedScript; Svelte; Docker; Github Actions; CI/CD
+

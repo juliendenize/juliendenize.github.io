@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/comedian
 excerpt: '[Paper link](https://openaccess.thecvf.com/content/WACV2024W/Pretrain/papers/Denize_COMEDIAN_Self-Supervised_Learning_and_Knowledge_Distillation_for_Action_Spotting_Using_WACVW_2024_paper.pdf) - [Code Link](https://github.com/juliendenize/eztorch)'
 date: 2024-01-02
-venue: 'arXiv'
+venue: 'WACV Workshops'
 citation: '"COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers" Julien Denize, Mykola Liashuha, Jaonary Rabarisoa, Astrid Orcesi, Romain Hérault; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024'
 ---
 
