@@ -8,10 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learing Engineer at the [CEA List](https://list.cea.fr/fr/) since February 2024. I am in charge of developing an **MLOps task** in a R&D service of 80 people **to build new cool AI models in NLP and Computer Vision**. To do so, I increase my skills in Software Engineering and DevOps with currently a primary focus on Machine Learning. I also help scaling research scientist's POCs.
 
-Previously, I obtained a PhD by working in collaboration with the [Laboratoire de Vision et d'Apprentissage pour l'analyse de scène](https://kalisteo.cea.fr/index.php/ai/)(LVA) in [CEA List](https://list.cea.fr/fr/) and the [Laboratoire d'informatique, du Traitement de l'Information et des Systèmes](https://www.litislab.fr/)(LITIS) in [INSA Rouen](https://www.insa-rouen.fr/). My thesis subject was **"Self-supervised representation learning and applications for image and video analysis"**. I worked under the supervision of [Romain Hérault](https://rherault.pages.insa-rouen.fr/website/pages/welcome-fr.html), Jaonary Rabarisoa and Astrid Orcesi.
+## Software Engineer | AI & Backend Development | MLOps Enthusiast | PhD in Deep Learning | Aspiring Full-Stack Developer
 
-I got a Master of Engineering in Computer Science from [Télécom SudParis](https://www.telecom-sudparis.eu/) with a major in Artificial Intelligence. I completed my diploma with a 6-months research internship focused on **"People re-identification and cross-domain adaptation via generative models"**.
+I am a software engineer with 4+ years of experience specializing in AI, backend development, and increasingly in full-stack engineering. After earning a PhD in Deep Learning, I transitioned from academic research to hands-on engineering, where I now focus on building and optimizing MLOps pipelines for efficient AI deployment. While my core expertise lies in backend technologies (Python, FastAPI, databases), I am actively expanding into frontend development. I have a strong foundation in CI/CD, automation, and web development, allowing me to deliver scalable and high-performance AI solutions.
 
-I would be more than happy to hear from you, do not hesitate to contact me !
+## Current Role: Machine Learning Engineer at CEA List
+Since February 2024, I’ve been working at [CEA List](https://list.cea.fr/fr/), where I lead the development of MLOps pipelines in an R&D team of 80 people. Our team focuses on creating innovative AI models in NLP and Computer Vision. My role involves enhancing software engineering and DevOps practices to streamline the work of research scientists, helping to scale their proof-of-concept models into deployable, production-ready solutions.
+
+## Academic Background
+I completed my PhD in collaboration with the [Laboratoire de Vision et d'Apprentissage pour l'analyse de scène](https://kalisteo.cea.fr/index.php/ai/)(LVA) at CEA List and the [Laboratoire d'informatique, du Traitement de l'Information et des Systèmes](https://www.litislab.fr/)(LITIS) at [INSA Rouen](https://www.insa-rouen.fr/). My thesis, titled "Self-supervised representation learning and applications for image and video analysis", was supervised by [Romain Hérault](https://rherault.pages.insa-rouen.fr/website/pages/welcome-fr.html), Jaonary Rabarisoa, and Astrid Orcesi. This work laid the foundation for my expertise in AI, particularly in self-supervised learning for visual data.
+
+Prior to that, I earned a Master of Science in Computer Science from [Télécom SudParis](https://www.telecom-sudparis.eu/), with a major in Artificial Intelligence. During my studies, I completed a 6-month research internship, focusing on "People re-identification and cross-domain adaptation via generative models."
+
+## Get in Touch
+I'm always excited to connect and collaborate on new projects. Feel free to reach out! My info are available on the left sidebar !

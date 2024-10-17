@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-## Resume
-
 Please send me an [email](mailto:julien.denize@hotmail.fr) for an up-to-date resume.
 
 You can check my [LinkedIn profile](https://www.linkedin.com/in/julien-denize/) or navigate thorugh this website to have a tour of my Curriculum Vitae, I try to keep them up-to-date :) . 
