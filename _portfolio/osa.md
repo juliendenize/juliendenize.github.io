@@ -3,7 +3,7 @@ title: "On Shelf Availability"
 collection: portfolio
 permalink: /portfolio/osa
 date: 2020-01-01
-excerpt: '*Numpy; Pandas; Matplotlib; Scikit-Learn; TensorFlow*'
+excerpt: '*Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow*'
 ---
 
 ## About
@@ -19,5 +19,5 @@ Due to the nature of the project, I have no right to share the code.
 
 ## Stack
 
-Numpy; Pandas; Matplotlib; Scikit-Learn; TensorFlow
+Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow
 

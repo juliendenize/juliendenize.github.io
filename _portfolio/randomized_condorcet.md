@@ -3,7 +3,7 @@ title: "Randomized Condorcet"
 collection: portfolio
 permalink: /portfolio/job_reco
 date: 2018-04-01
-excerpt: '*Java; PHP; Bootstrap 3*<br/>[Github](https://github.com/juliendenize/Randomized_Condorcet/tree/master/Java/Algortihme%20de%20Condorcet/src/main)'
+excerpt: '*Java, PHP, Bootstrap 3*<br/>[Github](https://github.com/juliendenize/Randomized_Condorcet/tree/master/Java/Algortihme%20de%20Condorcet/src/main)'
 ---
 
 ## About
@@ -24,4 +24,4 @@ From the administrator's point of view, the voting process consists of defining 
 
 ## Stack
 
-Java; PHP; Bootstrap 3
+Java, PHP, Bootstrap 3
