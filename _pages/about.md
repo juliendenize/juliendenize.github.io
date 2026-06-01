@@ -11,7 +11,7 @@ redirect_from:
 
 ##  Software and ML Engineer | MLOps | PhD in Deep Learning | Aspiring Full-Stack Developer 
 
-I am a software and machine learning engineer with 4+ years of experience specializing in AI, backend development, and increasingly in full-stack engineering. After earning a PhD in Deep Learning, I transitioned from research to engineering, focusing on building MLOps pipelines to streamline AI training, design, and deployment processes. While my core expertise lies in backend technologies (Python, FastAPI, databases), I am actively expanding into frontend development. I have a strong foundation in CI/CD, automation, and web development, allowing me to deliver scalable and high-performance AI solutions.
+I am a software and machine learning engineer with 4+ years of experience specializing in AI, backend development, and increasingly in full-stack engineering. After earning a PhD in Deep Learning, I transitioned from research to engineering, focusing on building MLOps pipelines to streamline AI training, design, and deployment processes. While my core expertise lies in backend technologies (Python, FastAPI, databases), I am actively expanding into frontend development. I have a strong foundation in CI/CD, automation, and web development, and I enjoy building and contributing to open-source projects that make AI tools easier to use and reuse.
 
 ## Current Role: Research Engineer at Mistral AI
 I am currently a Research Engineer at [Mistral AI](https://mistral.ai/), where I work on open-source models for multimodal generation, reasoning, and coding agents. I also develop internal tooling, maintain Mistral AI open-source libraries, and contribute to the broader open-source ecosystem, including projects such as vLLM and Transformers.
